@@ -1,0 +1,71 @@
+* {
+    box-sizing: border-box;
+    
+}
+
+.flex-container
+{
+    display: flex;
+    align-items: flex-start;
+    padding: 10px;
+    background:white;
+    width: 350px;
+    height: 300px;
+    border-radius: 5px;
+    margin: 45px auto;
+    align-items: flex-start;
+}
+
+.flex-element-first
+{
+    color: black;
+    padding: 40px;
+    margin:8px;
+    background: darkblue;
+    border-radius: 3px;
+}
+
+.flex-element-second
+{
+    color: black;
+    padding: 25% 12%;
+    margin: 8px;
+    background: darkblue;
+    border-radius: 3px;
+}
+
+
+.flex-element-third
+{
+    color: black;
+    padding: 40px;
+    margin: 8px;
+    background: darkblue;
+    border-radius: 3px;
+}
+.flex-element-fourth
+{
+    color: black;
+    padding: 40px;
+    margin: 8px;
+    background: darkblue;
+    border-radius: 3px;
+}
+
+.flex-element-fifth
+{
+    color: black;
+    padding: 40px;
+    margin: 8px;
+    background: darkblue;
+    border-radius: 3px;
+}
+.flex-element-sixth
+{
+    color: black;
+    padding: 40px;
+    margin: 8px;
+    background: darkblue;
+    border-radius: 3px;
+}
+
